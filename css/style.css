@@ -1,0 +1,72 @@
+body {
+  background-color: #000;
+  color: #fff;
+  text-align: center;
+  font-family: sans-serif;
+  margin: 0;
+  padding: 20px;
+}
+
+#jogo {
+  display: grid;
+  grid-template-columns: repeat(15, 30px);
+  grid-template-rows: repeat(15, 30px);
+  gap: 5px;
+  justify-content: center;
+  margin: 2px;
+  background-color: #000;
+  position: absolute;
+  top: 250px;
+  left: 710px;
+  z-index:10px;
+}
+
+
+.celula {
+  width: 30px;
+  height: 30px;
+}
+
+.parede {
+  background: linear-gradient(45deg, #4dffcc, #1d4fc5);
+}
+
+.ponto {
+  background-color: rgb(0, 0, 0);
+  position: relative;
+}
+
+.ponto::after {
+  content: '';
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 6px;
+  height: 6px;
+  background-color: #fff;
+  border-radius: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.pacman {
+  background-image: url('../img/pacman.png');
+  background-size: cover;
+  transition: transform 0.2s;
+}
+
+.logo {
+  height: 150px;
+  position: absolute;
+  top: 70px;
+  left: 660px;
+  z-index:5;
+}
+
+p {
+  font-size: 18px;
+  position: absolute;
+  top: 776px;
+  left: 730px;
+  z-index:5;
+  font-family: 'Times New Roman', Times, bold, serif;
+}
