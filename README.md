@@ -16,4 +16,4 @@ Ajude o Pac-Man a devorar todos os pontos antes que o labirinto fique vazio!
 - Design minimalista inspirado no jogo original.  
 - Código simples e fácil de entender.  
 
-👉 **Jogue agora [aqui](#)**!  
+👉 **Jogue agora [aqui](https://leticialima04.github.io/Pac-Man-Simples/)**!  
