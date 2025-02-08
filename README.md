@@ -1,13 +1,19 @@
-# Pac-Man Simples
-### 🌟 Pac-Man Simples
+# 🟡 Pac-Man Simples  
+### 👻 Clássico Pac-Man no Navegador!  
 
-Este projeto utiliza HTML, CSS e JavaScript para criar um jogo inspirado no clássico Pac-Man.
+Reviva a nostalgia do Pac-Man com este jogo simples feito em **HTML, CSS e JavaScript**!  
 
-- **Movimentação:** Use as setas do teclado para controlar o personagem.
-- **Coleta:** Capture os pontos espalhados pelo labirinto.
-- **Objetivo:** Vença ao coletar todos os pontos.
-- **Design:** Layout simples, responsivo e intuitivo.
+🕹 **Como jogar?**  
+- Use as **setas do teclado** para mover o Pac-Man pelo labirinto.  
+- Coma todos os **pontos brancos** para vencer!  
+- Evite encostar nas **paredes** para não ficar preso!  
 
-Ideal para quem quer praticar desenvolvimento web de forma divertida e interativa.
+🏆 **Objetivo:**  
+Ajude o Pac-Man a devorar todos os pontos antes que o labirinto fique vazio!  
 
-👉 **Confira o jogo ao vivo [aqui](#)**!
+✨ **Destaques:**  
+- Movimento suave e responsivo.  
+- Design minimalista inspirado no jogo original.  
+- Código simples e fácil de entender.  
+
+👉 **Jogue agora [aqui](#)**!  
